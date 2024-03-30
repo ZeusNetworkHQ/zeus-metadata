@@ -2,7 +2,7 @@
   "name": "ZEUS",
   "symbol": "ZEUS",
   "description": "Zeus Network",
-  "image": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/ZEUS-token-logo.png",
+  "image": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/logo.png",
   "attributes": [
     {
       "trait_type": "Item",
