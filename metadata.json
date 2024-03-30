@@ -1,12 +1,6 @@
 {
   "name": "ZEUS",
   "symbol": "ZEUS",
-  "description": "Zeus Network",
-  "image": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/logo.png",
-  "attributes": [
-    {
-      "trait_type": "Item",
-      "value": "Zeus Sandbox 1"
-    }
-  ]
+  "description": "Cross-Chain Communication Layer Built on SVM",
+  "image": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/logo.png"
 }
