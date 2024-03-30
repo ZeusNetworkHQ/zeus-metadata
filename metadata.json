@@ -1,0 +1,12 @@
+{
+  "name": "ZEUS",
+  "symbol": "ZEUS",
+  "description": "Zeus Network",
+  "image": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/main/zeus-token-logo.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Zeus Sandbox 1"
+    }
+  ]
+}
